@@ -19,17 +19,17 @@ tagline:          'CMU Mini 3 - Spring 2016'
 
 email: 			daragh@daraghbyrne.me
 
-description:     "A series of guides, tutorials and labs to accompany CMU's <a href='http://iot2017.daraghbyrne.me/'>DIoT Spring 2017 course</a>; a hands-on introductory course exploring the Internet of Things and connected product experiences."
---url:              http://diotlabs.daraghbyrne.me/
+description:     "A series of guides, tutorials and labs to accompany CMU's <a href='https://jmarsico.github.io/rsma2018/'>RSMA 2018 course</a>; a hands-on introductory course exploring the Media Architecture and Experiential Media."
+--url:              https://jmarsico.github.io/rsmalabs
 baseurl:          ""
---baseurl:          /diotlabs
+--baseurl:          /rsmalabs
 
 author:
   name:           'Daragh Byrne'
   email: 		  daragh@daraghbyrne.me
-  url:            http://daraghbyrne.github.io/diotlabs/
+  url:            https://jmarsico.github.io/rsmalabs
 
-course_site:      http://diot2017.daraghbyrne.me
+course_site:      https://jmarsico.github.io/rsma2018
 
 
 email: 			  daragh@daraghbyrne.me
@@ -43,7 +43,7 @@ version:          1.0.0
 
 github:
   user:           daraghbyrne
-  repo:           https://github.com/daraghbyrne/diotlabs
+  repo:           https://github.com/jmarsico/rsmalabs
   
 github_source_code: https://github.com/daraghbyrne/DesigningIoT
   
