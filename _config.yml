@@ -14,8 +14,8 @@ permalink:        pretty
 
 
 # Setup
-title:            "DioT Labs and Guides"
-tagline:          'CMU Mini 3 - Spring 2016'
+title:            "RSMA Labs and Tutorials"
+tagline:          'CMU Fall 2018'
 
 email: 			daragh@daraghbyrne.me
 
@@ -25,16 +25,16 @@ baseurl:          ""
 --baseurl:          /rsmalabs
 
 author:
-  name:           'Daragh Byrne'
-  email: 		  daragh@daraghbyrne.me
+  name:           'Jakob Marsico'
+  email: 		  jake@ulrstudio.com
   url:            https://jmarsico.github.io/rsmalabs
 
 course_site:      https://jmarsico.github.io/rsma2018
 
 
-email: 			  daragh@daraghbyrne.me
-twitter_username: diotlabs
-github_username:  daraghbyrne
+email: 			  jake@ulrstudio.com
+twitter_username: 
+github_username:  jmarsico
 
 paginate:         5
 
@@ -42,10 +42,9 @@ paginate:         5
 version:          1.0.0
 
 github:
-  user:           daraghbyrne
+  user:           jmarsico
   repo:           https://github.com/jmarsico/rsmalabs
   
-github_source_code: https://github.com/daraghbyrne/DesigningIoT
   
 
   
